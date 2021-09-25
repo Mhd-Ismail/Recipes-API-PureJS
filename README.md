@@ -1,2 +1,2 @@
 # RecipesPureJS
-project created by usi API
+project created by using API
